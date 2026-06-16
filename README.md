@@ -1,7 +1,10 @@
 # HM-50P-127
 Header Male 50pin Pitch 1.27mm 
 
-<img width="513" height="392" alt="image" src="https://github.com/user-attachments/assets/a4ea987f-ea54-465c-a27c-93a966494639" />
+https://www.robotics.org.za/HM-50P-127
+
+<img width="575" height="603" alt="image" src="https://github.com/user-attachments/assets/e763bfa9-4697-4b7a-a939-a56c5659f287" />
+
 
 
 
